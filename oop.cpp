@@ -35,6 +35,7 @@ public:
         cout<< "Name: "<<Name<<endl;
         cout<< "Company: "<<Company<<endl;
         cout<< "Age: "<<Age<<endl;
+        cout<< "Age: "<<Age<<endl;
     }
     Employee(string name,string company, int age){
         Name = name;
